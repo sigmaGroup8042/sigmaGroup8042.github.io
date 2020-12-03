@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/sigmaGroup8042.github.io/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/sigmaGroup8042.github.io/static/js/main.98a4249c.chunk.js",
-    "main.js.map": "/sigmaGroup8042.github.io/static/js/main.98a4249c.chunk.js.map",
-    "runtime-main.js": "/sigmaGroup8042.github.io/static/js/runtime-main.ce1b38a7.js",
-    "runtime-main.js.map": "/sigmaGroup8042.github.io/static/js/runtime-main.ce1b38a7.js.map",
-    "static/js/2.9538b948.chunk.js": "/sigmaGroup8042.github.io/static/js/2.9538b948.chunk.js",
-    "static/js/2.9538b948.chunk.js.map": "/sigmaGroup8042.github.io/static/js/2.9538b948.chunk.js.map",
-    "static/js/3.10c517ae.chunk.js": "/sigmaGroup8042.github.io/static/js/3.10c517ae.chunk.js",
-    "static/js/3.10c517ae.chunk.js.map": "/sigmaGroup8042.github.io/static/js/3.10c517ae.chunk.js.map",
+    "main.css": "/sigmaGroup8042.github.io/static/css/main.f341ca67.chunk.css",
+    "main.js": "/sigmaGroup8042.github.io/static/js/main.9c1eb7fb.chunk.js",
+    "main.js.map": "/sigmaGroup8042.github.io/static/js/main.9c1eb7fb.chunk.js.map",
+    "runtime-main.js": "/sigmaGroup8042.github.io/static/js/runtime-main.ff55812f.js",
+    "runtime-main.js.map": "/sigmaGroup8042.github.io/static/js/runtime-main.ff55812f.js.map",
+    "static/js/2.dc9fc66c.chunk.js": "/sigmaGroup8042.github.io/static/js/2.dc9fc66c.chunk.js",
+    "static/js/2.dc9fc66c.chunk.js.map": "/sigmaGroup8042.github.io/static/js/2.dc9fc66c.chunk.js.map",
+    "static/js/3.63ef7de2.chunk.js": "/sigmaGroup8042.github.io/static/js/3.63ef7de2.chunk.js",
+    "static/js/3.63ef7de2.chunk.js.map": "/sigmaGroup8042.github.io/static/js/3.63ef7de2.chunk.js.map",
     "index.html": "/sigmaGroup8042.github.io/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/sigmaGroup8042.github.io/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.9538b948.chunk.js.LICENSE.txt": "/sigmaGroup8042.github.io/static/js/2.9538b948.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/sigmaGroup8042.github.io/static/media/logo.6ce24c58.svg"
+    "static/css/main.f341ca67.chunk.css.map": "/sigmaGroup8042.github.io/static/css/main.f341ca67.chunk.css.map",
+    "static/js/2.dc9fc66c.chunk.js.LICENSE.txt": "/sigmaGroup8042.github.io/static/js/2.dc9fc66c.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/sigmaGroup8042.github.io/static/media/heroBanner.74a358cd.jpg",
+    "static/media/kiwi.96a857bd.svg": "/sigmaGroup8042.github.io/static/media/kiwi.96a857bd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce1b38a7.js",
-    "static/js/2.9538b948.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.98a4249c.chunk.js"
+    "static/js/runtime-main.ff55812f.js",
+    "static/js/2.dc9fc66c.chunk.js",
+    "static/css/main.f341ca67.chunk.css",
+    "static/js/main.9c1eb7fb.chunk.js"
   ]
 }
